@@ -15,7 +15,8 @@ Progressive Web Applications (PWA) Challenge: Text Editor
  Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
   ## Usage
-  ### Just an example of how it looks and where the information is stored
+Go to: ### [JATE App](https://jate-challenge.herokuapp.com/)
+Just an example of how it looks and where the information is stored
 ![Jate app in use screenshot](jateApp.png)
 
 
